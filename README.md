@@ -26,7 +26,7 @@ We gebruikten Arduino UNO-borden en programmeerden in C om geleidelijk aan vaard
 
 1. Clone deze repository:
    ```bash
-   git clone https://github.com/jouwgebruikersnaam/arduino-flappybird-kdg.git
+   git clone
    ```
 
 2. Open de `.ino` bestanden in de Arduino IDE.
