@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "io.h": "c",
+        "interrupt.h": "c",
+        "stdbool.h": "c",
+        "delay.h": "c",
+        "adc.h": "c"
+    }
+}
